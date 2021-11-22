@@ -7,5 +7,8 @@ used mean for few NaN values and also tried to to use feature engineering to get
 Kaggle link : https://www.kaggle.com/c/titanic/data
 ncol = 12
 nrow = 891
+
+Age column had few null values , used Pclass feature to get the deatails for missing values.
+
 used ML Algo = Logistic Regression 
 Score = 0.767
